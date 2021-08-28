@@ -33,7 +33,7 @@
             class="btn btn-success btn-lg btn-block">
         </div>
     </form>
-	<div class="text-center">Already have an account? <a href="#">Sign in</a></div>
+	<div class="text-center">Already have an account? <a href="login.php">Sign in</a></div>
 </div>
 
     <script>
